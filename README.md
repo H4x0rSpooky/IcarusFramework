@@ -2,6 +2,11 @@
 **Icarus Framework**
 
 This is a ported Plugin for `Kid Icarus: Uprising` that was previously made for Libshark2NTR (Offline)
+* I only ported it to USA because I'm only familiar that most of the codes work for that version!
+
+## Links and more
+
+QR Code to Scan & Install the game via FBI Remote Install: [Click here](https://i.redd.it/pdo68sd0unj51.png)
 
 Old Plugin GBATemp: [Click here](https://gbatemp.net/threads/release-cheat-icarus-uprising-ntr-plugin-for-kid-icarus-uprising.461619/)
 
