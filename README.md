@@ -6,7 +6,7 @@ This is a ported Plugin for `Kid Icarus: Uprising` that was previously made for 
 
 ## Links and more
 
-* You need to place the `.3gx` into `sd:\luma\plugins\0004000000030100\` (if you don't have a folder called `0004000000030100` yet, simply create it!)
+* You need to place the `.3gx` into `sd:\luma\plugins\0004000000030100\` (you may have to create the folder called `0004000000030100`)
 
 QR Code to Scan & Install the game via FBI Remote Install: [Click here](https://i.redd.it/pdo68sd0unj51.png)
 
