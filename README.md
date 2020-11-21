@@ -3,7 +3,7 @@
 
 This is a ported Plugin for `Kid Icarus: Uprising` that was previously made for Libshark2NTR (Offline)
 
-Old Plugin GBATemp: [Press here](https://gbatemp.net/threads/release-cheat-icarus-uprising-ntr-plugin-for-kid-icarus-uprising.461619/)
+Old Plugin GBATemp: [Click here](https://gbatemp.net/threads/release-cheat-icarus-uprising-ntr-plugin-for-kid-icarus-uprising.461619/)
 
 ## Creator
 
