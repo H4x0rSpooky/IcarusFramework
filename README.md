@@ -2,7 +2,7 @@
 **Icarus Framework**
 
 This is a ported Plugin for `Kid Icarus: Uprising` that was previously made for Libshark2NTR (Offline)
-* I only ported it to USA because I'm only familiar that most of the codes work for that version!
+* I ported it to USA because I'm only familiar that most of the codes work for that version!
 
 ## Links and more
 
